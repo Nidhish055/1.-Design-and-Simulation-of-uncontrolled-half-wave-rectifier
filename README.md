@@ -51,11 +51,15 @@ Design, Simulate and analyse the below given circuit using the following values.
 Resistance=0.5 ohm
 Vin = 220 Vrms at 50Hz (312 Vp)
 <img width="940" height="349" alt="image" src="https://github.com/user-attachments/assets/b2bb32b7-4bbf-4398-a2eb-a14853f5205a" />
+
 ## Simulation
+<img width="1278" height="659" alt="Screenshot 2025-08-09 104242" src="https://github.com/user-attachments/assets/ca80f2a0-7a97-4a7e-b012-747a26020155" />
 
 ## Output
+<img width="1917" height="894" alt="Screenshot 2025-08-09 104557" src="https://github.com/user-attachments/assets/47be2c0e-252b-477e-b7fa-26c58fa7854d" />
 
 ## Result
+Thus the half wave rectifier (Uncontrolled) is designed and simulated successfully in MATLAB Simulink.
 
 
 
